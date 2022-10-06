@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RhonnieAl
 - 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning to program as a Junior dev
+- 🌱 I’m currently learning to programme as a Junior dev
