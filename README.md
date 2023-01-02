@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @RhonnieAl
-- 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning to programme as a Junior dev
+- I’m interested in Javascript and Cloud Development
+- I hold several Certifications in Azure Cloud Development
+- Enjoy to code as I hone my Fullstack Web Development skills 
