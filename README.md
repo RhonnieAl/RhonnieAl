@@ -35,7 +35,8 @@
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 </div>
-
+<br>
+  
 #### Feel free to Reach out by clicking below:
 <div align="left">
   <a href="https://www.linkedin.com/in/rhonnie-allan"Lets link up>
