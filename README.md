@@ -1,5 +1,5 @@
 ## 👋 Hey there, I’m Rhonnie
-- I’m deepdiving into Javascript/Typescript and Cloud Development
+- Deepdiving into Javascript/Typescript and Cloud Development
 - I hold several Certifications in Azure Cloud Development and Agile 
 - Enjoy writing clean documented code 
 
