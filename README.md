@@ -17,7 +17,7 @@
 <br>
   
 
-## Stack:
+## Tech Stack:
 
 <div align="center">
   
@@ -38,10 +38,10 @@
 
 #### Feel free to Reach out by clicking below:
 <div align="left">
-  <a href="https://www.linkedin.com/in/rhonnie-allan">
+  <a href="https://www.linkedin.com/in/rhonnie-allan"Lets link up>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="rhonnieallan@gmail.com">
+  <a href="mailto: rhonnieallan@gmail.com"Shoot me an email>
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail Badge"/>
   </a>
 </div>
