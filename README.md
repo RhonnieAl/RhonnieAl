@@ -4,14 +4,18 @@
 - Enjoy writing clean documented code 
 <div>
   <br>
-<img align='center' width='52%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhonnieal&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
+<img align='left' width='52%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhonnieal&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
 
-<img align='center' width='40%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rhonnieal&layout=compact&theme=aura_dark" />
+<img align='left' width='40%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rhonnieal&layout=compact&theme=aura_dark" />
 
 <br>
 <br>
-
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+ 
 
 ## Tech Stack:
 
@@ -32,6 +36,7 @@
 
 </div>
 <br>
+
   
 #### Feel free to Reach out by clicking below:
 <div align="left">
