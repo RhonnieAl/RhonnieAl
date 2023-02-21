@@ -2,7 +2,7 @@
 - Deepdiving into Javascript and Cloud Development
 - I develop frontends in React (currently learning Next.js)
 - I develop backends in Node (Express)
-- I hold several Certifications in (Azure Cloud](https://www.credly.com/badges/d13881e2-8cac-48aa-b429-9dd4b19aea0e?source=linked_in_profile) Development and [Agile Methodologies](https://courses.minnalearn.com/certificate/en/agile/5a867cbd-4841-444a-ab67-9a49879ac7f3)
+- I hold several Certifications in [Azure Cloud](https://www.credly.com/badges/d13881e2-8cac-48aa-b429-9dd4b19aea0e?source=linked_in_profile) Development and [Agile Methodologies](https://courses.minnalearn.com/certificate/en/agile/5a867cbd-4841-444a-ab67-9a49879ac7f3)
 - Enjoy writing clean documented code 
 <div>
   <br>
