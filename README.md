@@ -4,7 +4,7 @@
 - I develop frontends in React (currently learning Next.js)
 - I develop backends in Node (Express)
 - I hold several Certifications in [Azure Cloud](https://www.credly.com/badges/d13881e2-8cac-48aa-b429-9dd4b19aea0e?source=linked_in_profile) Development and [Agile Methodologies](https://courses.minnalearn.com/certificate/en/agile/5a867cbd-4841-444a-ab67-9a49879ac7f3)
-- Having too much fun building GPT-3 Ai Apps
+- Having too much fun building various Ai Apps
 <div>
   <br>
 <img align='left' width='52%' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rhonnieal&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
@@ -24,7 +24,7 @@
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
@@ -35,7 +35,6 @@
 
 ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 </div>
 <br>
