@@ -9,7 +9,7 @@
   <br>
 <img align='left' width='52%' src="https://git-stats-tdft.vercel.app/api?username=rhonnieal&include_all_commits=false&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
 
-<img align='left' width='40%' src="https://git-stats-tdft.vercel.app/api/top-langs/?username=rhonnieal&count_private=true&layout=compact&theme=aura_dark" />
+<img align='left' width='40%' src="https://git-stats-tdft.vercel.app/api/top-langs/?username=rhonnieal&count_private=true&langs_count=4&layout=compact&theme=aura_dark" />
 
 <br>
 <br>
