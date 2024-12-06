@@ -6,9 +6,9 @@
 - Having a bit too much fun experimenting with Ai Apps at the moment
 <div>
   <br>
-<img align='left' width='52%' src="https://git-stats-tdft.vercel.app/api?username=rhonnieal&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&theme=aura_dark" />
+<img align='left' width='52%' src="https://git-stats-tdft.vercel.app/api?username=rhonnieal&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues&theme=github_dark" />
 
-<img align='left' width='40%' src="https://git-stats-tdft.vercel.app/api/top-langs/?username=rhonnieal&hide=html&count_private=true&langs_count=4&layout=compact&theme=aura_dark" />
+<img align='left' width='40%' src="https://git-stats-tdft.vercel.app/api/top-langs/?username=rhonnieal&hide=html&count_private=true&langs_count=4&layout=compact&theme=github_dark" />
 
 <br>
 <br>
